@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/aluroni-curso-react/static/css/main.7fd783de.css",
-    "main.js": "/aluroni-curso-react/static/js/main.8800af80.js",
+    "main.js": "/aluroni-curso-react/static/js/main.2b434622.js",
     "static/media/header.png": "/aluroni-curso-react/static/media/header.b657dd083e14f631a54c.png",
     "static/media/logo.svg": "/aluroni-curso-react/static/media/logo.4aa691b6070b74b5f57b342792fde93d.svg",
     "index.html": "/aluroni-curso-react/index.html",
     "main.7fd783de.css.map": "/aluroni-curso-react/static/css/main.7fd783de.css.map",
-    "main.8800af80.js.map": "/aluroni-curso-react/static/js/main.8800af80.js.map"
+    "main.2b434622.js.map": "/aluroni-curso-react/static/js/main.2b434622.js.map"
   },
   "entrypoints": [
     "static/css/main.7fd783de.css",
-    "static/js/main.8800af80.js"
+    "static/js/main.2b434622.js"
   ]
 }
