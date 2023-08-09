@@ -1,0 +1,22 @@
+[
+    {
+      "nome": "",
+      "value": ""
+    },
+    {
+      "nome": "Porção",
+      "value": "porcao"
+    },
+    {
+      "nome": "Qtd. pessoas",
+      "value": "qtd_pessoas"
+    },
+    {
+      "nome": "Preço crescente",
+      "value": "preco_crescente"
+    },
+    {
+      "nome": "Preço decrescente",
+      "value": "preco_decrescente"
+    }
+  ]
